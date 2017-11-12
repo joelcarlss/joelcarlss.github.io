@@ -41,6 +41,4 @@ $colorName: #efefef;
 This is a very logic way to write and the code gets very organized. When we can write values to variables we only need to change the variable's value to do changes in allot of places.
 We also gets the advantage of structuring our code in many files.
  
-The negative sides of pre-processing is that it requires the right software running to do changes. It becomes very hard to do changes without the software because there is no structure in the code after it’s processed. The structure is unnecessary when the browser reads it but for a programmer the structure is extremely important.
-
-
+The negative sides of pre-processing is that it requires the right software running to do changes. A browser doesn’t read SASS for example, therefore it will get translated to CSS. When the code gets translated into CSS it looses all its structure and it becomes very hard to change without the software. The structure is unnecessary when the browser reads it but for a programmer the structure is extremely important.
