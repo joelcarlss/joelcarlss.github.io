@@ -8,11 +8,7 @@
       <div class="footer-col footer-col-1">
         <ul class="contact-list">
           <li>
-            {% if site.author %}
-              {{ site.author | escape }}
-            {% else %}
-              {{ site.title | escape }}
-            {% endif %}
+              <p class="rss-subscribe">Subscribe to blog <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
             </li>
             {% if site.email %}
             <li><a href="mailto:{{ site.email }}">{{ site.email }}</a></li>
@@ -33,7 +29,6 @@
             {% include icon-twitter.html username=site.twitter_username %}
           </li>
           {% endif %}
-          
         </ul>
       </div>
 

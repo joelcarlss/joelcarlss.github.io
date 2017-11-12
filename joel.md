@@ -13,4 +13,5 @@ My girlfriend and I just moved to Kalmar and we both have our roots in Växjö s
 
 You can find more information about me on my [instagram](https://www.instagram.com/joelcarlss) profile
 
+![Picture of Joel](/Joel.jpg "Picture of Joel")
 
