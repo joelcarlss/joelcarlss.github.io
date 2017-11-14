@@ -19,7 +19,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Examination one in course 1dv022 at Linné University in Kalmar, Sweden.
   Written through jekyll by Joel Carlsson. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://joelcarlss.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: joelcarlss
 github_username:  joelcarlss
 
